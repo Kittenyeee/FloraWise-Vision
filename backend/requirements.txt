@@ -1,0 +1,28 @@
+# Web框架
+Flask==2.3.3
+Flask-CORS==4.0.0
+Flask-SQLAlchemy==3.0.5
+
+# 深度学习框架
+torch==2.0.1
+torchvision==0.15.2
+
+# 数据处理
+numpy==1.24.3
+opencv-python==4.8.0.74
+Pillow==10.0.0
+pandas==2.0.3
+
+# 工具库
+requests==2.31.0
+python-dotenv==1.0.0
+werkzeug==2.3.7
+
+# 日志和监控
+logging==0.5.1.2
+
+# 其他
+click==8.1.7
+itsdangerous==2.1.2
+Jinja2==3.1.2
+MarkupSafe==2.1.1
